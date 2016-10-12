@@ -28,7 +28,24 @@ $page = "pages/" . $params . ".php";
     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.7/js/materialize.min.js"></script>
 </head>
 <body>
-
+<nav>
+    <div class="nav-wrapper">
+        <a href="#!" class="brand-logo">Barnabas Csomor</a>
+        <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
+        <ul class="right hide-on-med-and-down">
+            <li><a href="/cv">CV</a></li>
+            <li><a href="/montagne">Montagne</a></li>
+            <li><a href="/scoutisme">Scoutisme</a></li>
+            <li><a href="/voyage">Voyage</a></li>
+        </ul>
+        <ul class="side-nav" id="mobile-demo">
+            <li><a href="/cv">CV</a></li>
+            <li><a href="/montagne">Montagne</a></li>
+            <li><a href="/scoutisme">Scoutisme</a></li>
+            <li><a href="/voyage">Voyage</a></li>
+        </ul>
+    </div>
+</nav>
 <?php
 if (file_exists($page)) {
     require_once($page);
@@ -37,7 +54,12 @@ else {
     require_once("404.php");
 }
 ?>
+<script>
+    $( document ).ready(function(){
+        $(".button-collapse").sideNav();
+    });
 
+</script>
 
 </body>
 </html>
