@@ -8,12 +8,12 @@
 ?>
 
 <div class="parallax-container">
-    <div class="parallax"><img src="../img/ac3.png" class="responsive-img"></div>
+    <div class="parallax"><img src="../img/a1.png" class="responsive-img"></div>
 </div>
 <div class="section white">
     <div class="row container">
         <div class="col s12 l4">
-            <img src="../img/h408.JPG" class="responsive-img">
+            <img src="../img/a3.JPG" class="responsive-img" alt="Csomor Barnabas">
         </div>
         <div class="col s12 l8">
         <h2 class="header">Who am I ?</h2>
@@ -35,7 +35,7 @@
             </p>
         </div>
         <div class="col s12 m4 l4">
-            <h3 class="center"><a href="/hobbies">Mes autres centres d'intéret</a></h3>
+            <h3 class="center"><a href="/hobbies">Mes autres centres d'intérêt</a></h3>
             <p>
                 Je pratique plusieurs sports de montagne, dont l'alpinisme, le ski de rando et l'escalade. Je m'étais engagé dans le scoutisme durant plusieurs années. J'ai voyagé dans d'autres pays, continent.
             </p>
@@ -43,7 +43,7 @@
     </div>
 </div>
 <div class="parallax-container">
-    <div class="parallax"><img src="../img/ac4.png" class="responsive-img"></div>
+    <div class="parallax"><img src="../img/a2.png" class="responsive-img"></div>
 </div>
 <div id="contact" class="section white">
     <div class="row container">
@@ -53,7 +53,7 @@
             Développeur Web<br/>
             E-mail: csomorbarnabas@yahoo.com <br/>
             Téléphone: 07 81 36 88 90 <br/>
-            Mon cv
+            <a href="../files/cv_Barnabas_Csomor.pdf" target="_blank">Mon Curiculum Vitae</a>
         </p>
     </div>
 

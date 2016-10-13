@@ -38,7 +38,8 @@ $page = "pages/" . $params . ".php";
         <ul class="right hide-on-med-and-down">
             <li class="sliding-middle-out"><a href="/dev">Développement Web</a></li>
             <li class="sliding-middle-out"><a href="/parcours">Parcours</a></li>
-            <li class="sliding-middle-out"><a href="/hobbies">Hobbies</a></li>
+            <li class="sliding-middle-out"><a href="/hobbies">Centres d’intérêt</a></li>
+            <li class="sliding-middle-out"><a href="./files/cv_Barnabas_Csomor.pdf" target="_blank">CV</a></li>
             <li class="sliding-middle-out"><a href="#contact">Contact</a></li>
         </ul>
         <ul class="side-nav" id="mobile-demo">
