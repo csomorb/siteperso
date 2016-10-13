@@ -1,3 +1,8 @@
+html{
+    font-family: 'Hind', sans-serif;
+}
+
+
 .h404{
     position: fixed;
     top: 22px;
@@ -6,4 +11,59 @@
     color: #f0f5f5;
 }
 
+/*Barre de navigation */
+/**********************************************************************************************/
+nav{
+    background-color: #fff ;
+}
 
+nav .brand-logo{
+    color: #3a3c3f;
+}
+
+nav ul a{
+    color: #3a3c3f;
+}
+
+.sliding-middle-out {
+    display: inline-block;
+    position: relative;
+    padding-bottom: 2px;
+}
+.sliding-middle-out:after {
+    content: '';
+    display: block;
+    margin: auto;
+    height: 2px;
+    width: 0px;
+    background: transparent;
+    transition: width .5s ease, background-color .5s ease;
+}
+.sliding-middle-out:hover:after {
+    width: 100%;
+    background: rgba(38, 38, 38, 0.50);
+}
+
+.active{
+    border-bottom: 2px solid #3a3c3f;
+}
+
+nav, nav .nav-wrapper i, nav a.button-collapse, nav a.button-collapse i{
+    height: 40px;
+    line-height: 36px;
+}
+
+nav a{
+    color: #3a3c3f;
+}
+
+nav ul a:hover {
+    background-color: #ffffff;
+}
+
+nav .brand-logo {
+    font-size: 2rem;
+    padding: 4px;
+}
+/**********************************************************************************************/
+/*Fin Barre de navigation */
