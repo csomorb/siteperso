@@ -77,6 +77,35 @@ nav .brand-logo {
     height: 754px;
 }
 
+/*950 px*/
+@media screen and (max-width: 950px) {
+    .parallax-container {
+        height: 500px;
+    }
+}
+
+/*650 px*/
+@media screen and (max-width: 650px) {
+    .parallax-container {
+        height: 300px;
+    }
+}
+
+/*395 px*/
+@media screen and (max-width: 395px) {
+    .parallax-container {
+        height: 250px;
+    }
+}
+
+/*395 px*/
+@media screen and (max-width: 300px) {
+    .parallax-container {
+        height: 200px;
+    }
+}
+
+
 h3{
     font-size: 20px;
 }

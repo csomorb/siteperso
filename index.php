@@ -44,9 +44,10 @@ $page = "pages/" . $params . ".php";
         </ul>
         <ul class="side-nav" id="mobile-demo">
             <li><a href="/dev">Développement Web</a></li>
-            <li><a href="/cv">CV</a></li>
-            <li><a href="/montagne">Montagne</a></li>
-            <li><a href="/voyage">Voyage</a></li>
+            <li><a href="/parcours">Parcours</a></li>
+            <li><a href="/hobbies">Centres d’intérêt</a></li>
+            <li><a href="./files/cv_Barnabas_Csomor.pdf" target="_blank">CV</a></li>
+            <li><a href="#contact">Contact</a></li>
         </ul>
     </div>
 </nav>
