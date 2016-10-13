@@ -12,7 +12,6 @@ if (empty($querystring)) {
 else {
     $params = $querystring;
 }
-$params= "accueil";
 $folder = explode("/", $params)[0];
 $page = "pages/" . $params . ".php";
 ?>
@@ -31,16 +30,16 @@ $page = "pages/" . $params . ".php";
     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.7/js/materialize.min.js"></script>
 </head>
 <body>
+<div class="navbar-fixed">
 <nav>
     <div class="nav-wrapper">
-        <a href="#!" class="brand-logo">Barnabas Csomor</a>
+        <a href="/accueil" class="brand-logo">Barnabas Csomor</a>
         <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
         <ul class="right hide-on-med-and-down">
             <li class="sliding-middle-out"><a href="/dev">Développement Web</a></li>
             <li class="sliding-middle-out"><a href="/parcours">Parcours</a></li>
-            <li class="sliding-middle-out"><a href="/montagne">Montagne</a></li>
-            <li class="sliding-middle-out"><a href="/voyage">Voyage</a></li>
-            <li class="sliding-middle-out"><a href="/contact">Contact</a></li>
+            <li class="sliding-middle-out"><a href="/hobbies">Hobbies</a></li>
+            <li class="sliding-middle-out"><a href="#contact">Contact</a></li>
         </ul>
         <ul class="side-nav" id="mobile-demo">
             <li><a href="/dev">Développement Web</a></li>
@@ -50,6 +49,7 @@ $page = "pages/" . $params . ".php";
         </ul>
     </div>
 </nav>
+</div>
 <?php
 if (file_exists($page)) {
     require_once($page);

@@ -53,6 +53,10 @@ nav, nav .nav-wrapper i, nav a.button-collapse, nav a.button-collapse i{
     line-height: 36px;
 }
 
+.navbar-fixed {
+    height: 40px;
+}
+
 nav a{
     color: #3a3c3f;
 }
@@ -67,3 +71,12 @@ nav .brand-logo {
 }
 /**********************************************************************************************/
 /*Fin Barre de navigation */
+
+
+.parallax-container {
+    height: 754px;
+}
+
+h3{
+    font-size: 20px;
+}
