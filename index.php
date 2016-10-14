@@ -36,9 +36,9 @@ $page = "pages/" . $params . ".php";
         <a href="/accueil" class="brand-logo">Barnabas Csomor</a>
         <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
         <ul class="right hide-on-med-and-down">
-            <li class="sliding-middle-out"><a href="/dev">Développement Web</a></li>
-            <li class="sliding-middle-out"><a href="/parcours">Parcours</a></li>
-            <li class="sliding-middle-out"><a href="/hobbies">Centres d’intérêt</a></li>
+            <li class="sliding-middle-out"><a href="/dev" <?php if ($folder == "dev") { echo "class='active'"; } ?>>Développement Web</a></li>
+            <li class="sliding-middle-out"><a href="/parcours" <?php if ($folder == "parcours") { echo "class='active'"; } ?>>Parcours</a></li>
+            <li class="sliding-middle-out"><a href="/hobbies" <?php if ($folder == "hobbies") { echo "class='active'"; } ?>>Centres d’intérêt</a></li>
             <li class="sliding-middle-out"><a href="./files/cv_Barnabas_Csomor.pdf" target="_blank">CV</a></li>
             <li class="sliding-middle-out"><a href="#contact">Contact</a></li>
         </ul>
