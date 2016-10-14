@@ -19,7 +19,7 @@
                             <img class="responsive-img" src="../img/bme.png" />
                         </div>
                         <div class="timeline-body">
-                            <p>Certificat d'examen de langue française de niveau intermédiaire de type C à l'Université polytechnique et économique de Budapest</p>
+                            <p><span class="gp">Certificat</span> d'examen de <span class="gp">langue française</span> de niveau intermédiaire de type C à l'Université polytechnique et économique de Budapest</p>
                         </div>
                         <div class="timeline-footer">
                             Mai 2006
@@ -33,7 +33,7 @@
                             <img class="responsive-img" src="../img/k.jpg" />
                         </div>
                         <div class="timeline-body">
-                            <p>Diplôme de baccalauréat d'enseignement bilingue franco-hongrois au Lycée Kölcsey Ferenc à Budapest. <br/>
+                            <p><span class="gp">Diplôme de baccalauréat</span>  d'enseignement bilingue franco-hongrois au Lycée Kölcsey Ferenc à Budapest. <br/>
                                 Certificat d'examen de langue française de niveau supérieur C1 de type complexe.
                             </p>
                         </div>
@@ -49,7 +49,7 @@
                             <img class="responsive-img" src="../img/jf.jpg" />
                         </div>
                         <div class="timeline-body">
-                            <p>Licence Siences, Technologies, Santé mention Informatique et Mathématiques Apliquées à l'Université Joseph Fourier à Grenoble<br/>
+                            <p><span class="gp">Licence</span> Siences, Technologies, Santé mention Informatique et Mathématiques Apliquées à l'Université Joseph Fourier à Grenoble<br/>
                                 Mise en ligne de mes premiers sites web.
                             </p>
                         </div>
@@ -65,9 +65,9 @@
                             <img class="responsive-img" src="../img/t4.jpg" />
                         </div>
                         <div class="timeline-body">
-                            <p>Année de sésure<br/>
+                            <p><span class="gp">Année de sésure</span><br/>
                                 Septembre - Décembre : Séjour linguistique au Royaume Uni.<br/>
-                                Janvier - Avril : Stage, développement d'applications web pour la communauté du Chemin-neuf<br/>
+                                Janvier - Avril : <span class="gp">Stage</span>, développement d'applications web pour la communauté du Chemin-neuf<br/>
                                 Mai - Juillet : Volontariat
                             </p>
                         </div>
@@ -83,7 +83,7 @@
                             <img class="responsive-img" src="../img/t5.jpg" />
                         </div>
                         <div class="timeline-body">
-                            Master Mathématiques et informatique appliquées aux sciences humaines et sociales, parcours Web Informatique et Connaissance à l'Université Grenoble Alpes
+                            <p><span class="gp"> Master</span> Mathématiques et informatique appliquées aux sciences humaines et sociales, parcours Web Informatique et Connaissance à l'Université Grenoble Alpes
                             </p>
                         </div>
                         <div class="timeline-footer">

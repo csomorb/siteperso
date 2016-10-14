@@ -29,7 +29,7 @@
             </p>
         </div>
         <div class="col s12 m4 l4">
-            <h3 class="center"><a href="/dev">Mon parcours</a></h3>
+            <h3 class="center"><a href="/parcours">Mon parcours</a></h3>
             <p>
                 Après avoir obtenu mon baccalauréat en Hongrie, j'ai décidé de partir pour la France pour me former en informatique, vous pouvez lire ici mon parcours universitaire et mes expériences professionnelles.
             </p>
