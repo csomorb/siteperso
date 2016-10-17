@@ -15,6 +15,10 @@ html{
     font-weight: bold;
 }
 
+.just{
+    text-align: justify;
+}
+
 /*Barre de navigation */
 /**********************************************************************************************/
 nav{

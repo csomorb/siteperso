@@ -16,7 +16,7 @@
 
     <h2>La montagne</h2>
 
-    <p>Passionné par l'univers de la montagne et photographe amateur depuis mon jeune âge, je pratique l'alpinisme, l'escalade et le ski de randonnée.</p>
+    <p class="just">Passionné par l'univers de la montagne et photographe amateur depuis mon jeune âge, je pratique l'alpinisme, l'escalade et le ski de randonnée.</p>
 
     <!-- Root element of PhotoSwipe. Must have class pswp. -->
     <div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
@@ -239,19 +239,20 @@
 
     <h2>Le scoutisme</h2>
 
-    <img class="responsive-img" src="../img/s.jpg"/>
 
-    <p>Ma jeunesse fut marqué par le scoutisme, j'ai été chef d'une troupe de 35 garçons âgés de 13 à 17 ans à Chambéry pendant trois ans, cette aventure m'a aidé à développer
+
+    <p class="just">Ma jeunesse fut marqué par le scoutisme, j'ai été chef d'une troupe de 35 garçons âgés de 13 à 17 ans à Chambéry pendant trois ans, cette aventure m'a aidé à développer
         mes compétences organisationnelles en amenant les scouts camper durant l'année et trois semaines chaque été. Il y avait certes le coté logistique & budget & administratif,
         mais le plus intéressant était de voir les garçons grandir et progresser au fil du temps, de prendre ses responsabilités, de leur transmettre les valeurs de l'engagement,
-        la prise d'initiative, le courage, la volonté, la persévérance et le dépassement de soi.<br/>
-
+        la prise d'initiative, le courage, la volonté, la persévérance et le dépassement de soi.</p>
+    <p class="just">
         J'ai pu développer mes compétences relationnels en adaptant mes discours au jeunes, en conduisant des réunions, en gérant des conflits, en manageant les scouts et leurs parents,
         ces derniers posaient plus de problèmes de façon générale. J'ai organisé des camps en échange avec des scouts  Allemeands, Polonais, Suisses. On a fait un grand camp
         en Hongrie, dans les Alpes et en Normandie, chaque hiver on faisait un camp hiver sous igloo de plusieurs jours.
     </p>
 
-    <h2>Le voyage</h2>
+    <img class="responsive-img" src="../img/s.jpg"/>
+
 
 </div>
 
