@@ -25,6 +25,9 @@ $page = "pages/" . $params . ".php";
     <link rel="stylesheet" href="css/main.css" type="text/css">
     <?php if ($folder == "hobbies") { echo "<link rel='stylesheet' href='css/photoswipe.css' type='text/css'>"; } ?>
     <link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <meta name="description" content="Barnabas Csomor, 25 ans, passioné par les technologies du web">
+    <meta name="keywords" content="Barnabas,Csomor,développeur,web,symfony,php,angular2,javascipt,stage,master,grenoble,alpes,université">
+    <meta name="author" content="Barnabas Csomor">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.7/js/materialize.min.js"></script>
