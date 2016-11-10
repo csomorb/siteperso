@@ -2,6 +2,16 @@ html{
     font-family: 'Hind', sans-serif;
 }
 
+.links line {
+    stroke: #999;
+    stroke-opacity: 0.6;
+}
+
+.nodes circle {
+    stroke: #fff;
+    stroke-width: 1.5px;
+}
+
 
 .h404{
     position: fixed;
@@ -52,7 +62,7 @@ nav ul a{
     background: rgba(38, 38, 38, 0.50);
 }
 
-.active{
+nav .active{
     border-bottom: 2px solid #3a3c3f;
 }
 
@@ -393,4 +403,10 @@ h3{
     .timeline > li.timeline-inverted > .timeline-badge{
         left: 28px;
     }
+}
+
+.map {
+    margin-top: 15px;
+    height: 600px;
+    width: 100%;
 }
