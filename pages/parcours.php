@@ -16,29 +16,35 @@
                     <div class="timeline-badge primary"></div>
                     <div class="timeline-panel">
                         <div class="timeline-heading">
-                            <img class="responsive-img" src="../img/bme.png" />
+                            <img class="responsive-img" src="../img/op.png" alt="Objectif-PI" />
                         </div>
                         <div class="timeline-body">
-                            <p><span class="gp">Certificat</span> d'examen de <span class="gp">langue française</span> de niveau intermédiaire de type C à l'Université polytechnique et économique de Budapest</p>
-                        </div>
-                        <div class="timeline-footer">
-                            Mai 2006
-                        </div>
-                    </div>
-                </li>
-                <li  class="timeline-inverted">
-                    <div class="timeline-badge primary"></div>
-                    <div class="timeline-panel">
-                        <div class="timeline-heading">
-                            <img class="responsive-img" src="../img/k.jpg" />
-                        </div>
-                        <div class="timeline-body">
-                            <p><span class="gp">Diplôme de baccalauréat</span>  d'enseignement bilingue franco-hongrois au Lycée Kölcsey Ferenc à Budapest. <br/>
-                                Certificat d'examen de langue française de niveau supérieur C1 de type complexe.
+                            <p> Stage de fin d’étude puis poste de <span class="gp">développeur</span> chez Objectif-PI éditeur<span class="gp"> ERP</span> open source <br/>
+                                Développement d’une appli mobile pour la gestion de production avec <span class="gp"> Angular </span> et <span class="gp">Ionic</span> <br/>
+                                Amélioration et implantation de nouvelles fonctionnalités dans le framework web de l’ERP en <span class="gp">Javascript</span>. <br/>
+                                Nouveau <a href ="http://open-prod.com/" target="_blank">site web de la Société</a> avec la création de templates et fonctionnalités <span class="gp">Wordpress</span> <br/>
+                                Front-end : BackboneJS, framework web dérivé d’odoo, Angular, Ionic <br/>
+                                Backend: Python, XML, PostgreSQL
                             </p>
                         </div>
                         <div class="timeline-footer">
-                            Juin 2011
+                            Janvier 2017 - Janvier 2018
+                        </div>
+                    </div>
+                </li>
+                
+                <li class="timeline-inverted">
+                    <div class="timeline-badge primary"></div>
+                    <div class="timeline-panel">
+                        <div class="timeline-heading">
+                            <img class="responsive-img" src="../img/t5.jpg" alt="Logo UGA"/>
+                        </div>
+                        <div class="timeline-body">
+                            <p><span class="gp"> Master</span> Mathématiques et informatique appliquées aux sciences humaines et sociales, parcours Web Informatique et Connaissance à l'Université Grenoble Alpes
+                            </p>
+                        </div>
+                        <div class="timeline-footer">
+                            Septembre 2015 - Janvier 2017
                         </div>
                     </div>
                 </li>
@@ -46,7 +52,25 @@
                     <div class="timeline-badge primary"></div>
                     <div class="timeline-panel">
                         <div class="timeline-heading">
-                            <img class="responsive-img" src="../img/jf.jpg" />
+                            <img class="responsive-img" src="../img/t4.jpg" alt="logo Php Taize"/>
+                        </div>
+                        <div class="timeline-body">
+                            <p><span class="gp">Année de sésure</span><br/>
+                                Septembre - Décembre : Séjour linguistique au Royaume Uni.<br/>
+                                Janvier - Avril : <span class="gp">Stage</span>, développement d'applications web pour la communauté du Chemin-neuf<br/>
+                                Mai - Juillet : Volontariat à Taizé
+                            </p>
+                        </div>
+                        <div class="timeline-footer">
+                            Juillet 2014 - Aout 2015
+                        </div>
+                    </div>
+                </li>
+                 <li class="timeline-inverted">
+                    <div class="timeline-badge primary"></div>
+                    <div class="timeline-panel">
+                        <div class="timeline-heading">
+                            <img class="responsive-img" src="../img/jf.jpg" alt="Logo UJF"/>
                         </div>
                         <div class="timeline-body">
                             <p><span class="gp">Licence</span> Siences, Technologies, Santé mention Informatique et Mathématiques Apliquées à l'Université Joseph Fourier à Grenoble<br/>
@@ -58,72 +82,66 @@
                         </div>
                     </div>
                 </li>
-                <li  class="timeline-inverted">
-                    <div class="timeline-badge primary"></div>
-                    <div class="timeline-panel">
-                        <div class="timeline-heading">
-                            <img class="responsive-img" src="../img/t4.jpg" />
-                        </div>
-                        <div class="timeline-body">
-                            <p><span class="gp">Année de sésure</span><br/>
-                                Septembre - Décembre : Séjour linguistique au Royaume Uni.<br/>
-                                Janvier - Avril : <span class="gp">Stage</span>, développement d'applications web pour la communauté du Chemin-neuf<br/>
-                                Mai - Juillet : Volontariat
-                            </p>
-                        </div>
-                        <div class="timeline-footer">
-                            Juillet 2014 - Aout 2015
-                        </div>
-                    </div>
-                </li>
                 <li>
                     <div class="timeline-badge primary"></div>
                     <div class="timeline-panel">
                         <div class="timeline-heading">
-                            <img class="responsive-img" src="../img/t5.jpg" />
+                            <img class="responsive-img" src="../img/k.jpg" alt="Logo Lycée Kölcsey Ferenc"/>
                         </div>
                         <div class="timeline-body">
-                            <p><span class="gp"> Master</span> Mathématiques et informatique appliquées aux sciences humaines et sociales, parcours Web Informatique et Connaissance à l'Université Grenoble Alpes
+                            <p><span class="gp">Diplôme de baccalauréat</span>  d'enseignement bilingue franco-hongrois au Lycée Kölcsey Ferenc à Budapest. <br/>
+                                Certificat d'examen de langue française de niveau supérieur C1 de type complexe.
                             </p>
                         </div>
                         <div class="timeline-footer">
-                            Septembre 2015 - Janvier 2017
+                            Juin 2011
                         </div>
                     </div>
                 </li>
-
+                <li class="timeline-inverted">
+                    <div class="timeline-badge primary"></div>
+                    <div class="timeline-panel">
+                        <div class="timeline-heading">
+                            <img class="responsive-img" src="../img/bme.png" alt="logo BME"/>
+                        </div>
+                        <div class="timeline-body">
+                            <p><span class="gp">Certificat</span> d'examen de <span class="gp">langue française</span> de niveau intermédiaire de type C à l'Université polytechnique et économique de Budapest</p>
+                        </div>
+                        <div class="timeline-footer">
+                            Mai 2006
+                        </div>
+                    </div>
+                </li>
                 <li class="clearfix" style="float: none;"></li>
             </ul>
-
-
-
-
-
-
     </div>
     <div class="divider"></div>
     <div class="section">
-        <h2>Expériences dans le développement web</h2>
-        <p>Développement de sites avec le graphiste Babptiste Plantin comme <a href="http://www.dev-et-sens.fr/" target="_blank">Dev & Sens</a>,
-            <a href="http://www.chacunsonsapin.fr/" target="_blank">Chacun son sapin</a>, <a href="http://lamagence.fr/" target="_blank">Lamagence</a>...
+        <h2>Expériences dans le développement</h2>
+        <p>
+            Développeur JavaScript chez la société Objectif-PI, éditeur d'ERP Open Source peandant 1 an:<br/>
+            Développement d’une appli mobile pour la gestion de production avec <a href="https://angular.io/" target="_blank">Angular</a> et <a href="https://ionicframework.com/" target="_blank">Ionic</a>. <br/>
+            Amélioration et implantation de nouvelles fonctionnalités dans le framework web de l’ERP, un framework dérivé d'<a href="https://www.odoo.com/fr_FR/" target="_blank">Odoo</a>.<br/>
+            Création et correction de modules existant de l'ERP en Python, XML et Javascript. <br/>
+            J'ai aussi passé 3 mois sur la création de prototypes de tableaux de bords pour un module de Buissness Inteligence, plus d'infos dans mon <a href="../files/rapport.pdf" target="_blank">rapport de stage</a>.
+        </p>
+        <p> 
+            Développement de sites web: <br/>
+            Développement de sites web en colaboration avec des graphistes, création de templates et fonctionnalités Wordpress comme <a href="http://www.dev-et-sens.fr/" target="_blank">Dev & Sens</a>,
+            <a href="http://open-prod.com/" target="_blank">Open Prod</a> ...
         </p>
         <p>
-            Développement de sites web pour des clients hongrois comme <a href="http://csalaildiko.hu/" target="_blank">Csala Ildiko</a>...
+            En tant que stagiaire entre la licence et le master : <br/>
+            Participation à l'amélioration du site web de la <a href="https://www.chemin-neuf.fr/fr/">communauté du chemin-neuf</a>.<br/>
+            Mise en place d'un wiki d'entreprise avec autentification LDAP et le CMS <a href="https://www.dokuwiki.org/fr:dokuwiki" target="_blank">dokuwiki</a> pour la communauté du chemin-neuf.
         </p>
         <p>
-            Participation à l'élaboration d'une application web pour gérer le réseau téléphonique interne de la communauté du chemin-neuf en PHP/MySQL.<br/>
-            Mise en place d'un wiki d'entreprise avec autentification LDAP et le CMS dokuwiki pour la communauté du chemin-neuf.
+            Projets scolaires: <br/>
+            Conception d’une application web pour le laboratoire des sciences de l’éducation de l’université de Grenoble pour le projet de master 1 avec le framework <a href="https://cakephp.org/">CakePHP</a>.<br/>
+            Pour le cours d'IHM création d'un <a href="https://github.com/csomorb/projetIHM" target="_blank">protype de réseau social</a> utilisation de materialize et découverte rapide de Symfony.<br/>
+            Des <a href="https://github.com/pgns/m1m-clients">projets</a> avec angularJS et angular 2.<br/>
+            Une démo d'algorithme de <a href="/fourmi">swarminteligence</a> appliqué au <a href="/tsp">problème du voyageur de commerce</a>.
         </p>
-        <p>
-            Conception d’une application web pour le laboratoire des sciences de l’éducation de l’université de Grenoble pour le projet de master 1 avec le framework CakePHP.
-        </p>
-        <p>
-            Développement d'un réseau social pour les étudiants avec les framework Symfony et Materialize.
-        </p>
-        <p>
-            Développemnet d'une application de géocodage avec NodeJS et AngularJS.
-        </p>
-
     </div>
     <div class="divider"></div>
     <div class="section">
@@ -150,7 +168,7 @@
             <li class="collection-item">Systèmes et réseaux avancés : Programmation d’un client générique, serveurs et virtualisation, services orientés réseau, DHCP et DNS
                 services d’intranet, HTTP, SMTP et POP, ecriture de scripts en langage Perl</li>
             <li class="collection-item">Langages et technologies du Web 2 : AngularJS, NodeJS</li>
-            <li class="collection-item">Recherche d’information : Recherche d’information sur le web, hits, pagerank, recherche d’information vectoriel</li>
+            <li class="collection-item">Recherche d’information : SEO, Référencement, Recherche d’information sur le web, pagerank, recherche d’information vectoriel</li>
             <li class="collection-item">Interaction Homme-Machine 1 : Analyse des besoins, des acteurs et de leur activité, modélisation, apports de la psycho cognitive
                 types d’outils de réalisation, principes d’architectures, évaluation.
             </li>
@@ -244,10 +262,10 @@
     <div class="row container">
         <h2 class="header">Contact</h2>
         <p class="grey-text text-darken-3 lighten-3">
-            Barnabas Csomor</br>
+            Barnabas Csomor<br/>
             Développeur Web<br/>
             E-mail: csomorbarnabas@yahoo.com <br/>
-            Téléphone: 07 81 36 88 90 <br/>
+            Téléphone: <a href="tel:0771799678">07 71 79 96 78</a> <br/>
             <a href="../files/cv_Barnabas_Csomor.pdf" target="_blank">Mon Curiculum Vitae</a>
         </p>
     </div>

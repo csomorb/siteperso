@@ -251,16 +251,16 @@
         en Hongrie, dans les Alpes et en Normandie, chaque hiver on faisait un camp hiver sous igloo de plusieurs jours.
     </p>
 
-    <img class="responsive-img" src="../img/s.jpg"/>
+    <img class="responsive-img" src="../img/s.jpg" alt="Scoutisme"/>
 
     <div id="contact" class="section white">
         <div class="row container">
             <h2 class="header">Contact</h2>
             <p class="grey-text text-darken-3 lighten-3">
-                Barnabas Csomor</br>
+                Barnabas Csomor<br/>
                 Développeur Web<br/>
                 E-mail: csomorbarnabas@yahoo.com <br/>
-                Téléphone: 07 81 36 88 90 <br/>
+                Téléphone: <a href="tel:0771799678">07 71 79 96 78</a> <br/>
                 <a href="../files/cv_Barnabas_Csomor.pdf" target="_blank">Mon Curiculum Vitae</a>
             </p>
         </div>

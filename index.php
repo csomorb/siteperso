@@ -16,7 +16,7 @@ $folder = explode("/", $params)[0];
 $page = "pages/" . $params . ".php";
 ?>
 <!DOCTYPE html>
-<html>
+<html lang="fr">
 <head>
     <meta charset="UTF-8">
     <title>Barnabas Csomor</title>
@@ -29,7 +29,7 @@ $page = "pages/" . $params . ".php";
     <meta name="keywords" content="Barnabas,Csomor,développeur,web,symfony,php,angular2,javascipt,stage,master,grenoble,alpes,université">
     <meta name="author" content="Barnabas Csomor">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+    <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.7/js/materialize.min.js"></script>
 </head>
 <body>
