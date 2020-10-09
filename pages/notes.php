@@ -7,4 +7,11 @@
  */?>
 <div class="container">
     <h1 class="center">Notes</h1>
+
+
+    <section>
+        <h2>Tests payement stripe</h2>
+        <a href="https://stripe.com/docs/testing">Tests payement stripe</a>
+    </section>
+
 </div>

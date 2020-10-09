@@ -14,10 +14,12 @@
                     <div class="timeline-badge primary"></div>
                     <div class="timeline-panel">
                         <div class="timeline-heading">
-                            <img class="responsive-img" src="../img/t5.jpg" alt="Logo Alliance réseaux"/>
+                            <img class="responsive-img" src="../img/lar.jpg" alt="Logo Alliance réseaux"/>
                         </div>
                         <div class="timeline-body">
-                            <p><span class="gp"> Master</span> Mathématiques et informatique appliquées aux sciences humaines et sociales, parcours Web Informatique et Connaissance à l'Université Grenoble Alpes
+                            <p> Développeur chez Alliace réseaux
+                            <br/>
+                            Backend: .NET, XML, SQl Server
                             </p>
                         </div>
                         <div class="timeline-footer">
