@@ -6,12 +6,25 @@
  * Time: 20:30
  */?>
 <div class="container">
-
 <h1 class="center">Mon parcours</h1>
     <div class="divider"></div>
     <div class="section">
-
             <ul class="timeline">
+                <li class="timeline-inverted">
+                    <div class="timeline-badge primary"></div>
+                    <div class="timeline-panel">
+                        <div class="timeline-heading">
+                            <img class="responsive-img" src="../img/t5.jpg" alt="Logo Alliance réseaux"/>
+                        </div>
+                        <div class="timeline-body">
+                            <p><span class="gp"> Master</span> Mathématiques et informatique appliquées aux sciences humaines et sociales, parcours Web Informatique et Connaissance à l'Université Grenoble Alpes
+                            </p>
+                        </div>
+                        <div class="timeline-footer">
+                            2018 - 2019
+                        </div>
+                    </div>
+                </li>
                 <li>
                     <div class="timeline-badge primary"></div>
                     <div class="timeline-panel">
@@ -28,7 +41,7 @@
                             </p>
                         </div>
                         <div class="timeline-footer">
-                            Janvier 2017 - Janvier 2018
+                            2017 - 2018
                         </div>
                     </div>
                 </li>
@@ -44,7 +57,7 @@
                             </p>
                         </div>
                         <div class="timeline-footer">
-                            Septembre 2015 - Janvier 2017
+                            2015 - 2017
                         </div>
                     </div>
                 </li>
@@ -62,7 +75,7 @@
                             </p>
                         </div>
                         <div class="timeline-footer">
-                            Juillet 2014 - Aout 2015
+                            2014 - 2015
                         </div>
                     </div>
                 </li>
@@ -78,7 +91,7 @@
                             </p>
                         </div>
                         <div class="timeline-footer">
-                            Septembre 2011 - Juin 2014
+                            2011 - 2014
                         </div>
                     </div>
                 </li>
@@ -94,7 +107,7 @@
                             </p>
                         </div>
                         <div class="timeline-footer">
-                            Juin 2011
+                            2011
                         </div>
                     </div>
                 </li>
@@ -108,7 +121,7 @@
                             <p><span class="gp">Certificat</span> d'examen de <span class="gp">langue française</span> de niveau intermédiaire de type C à l'Université polytechnique et économique de Budapest</p>
                         </div>
                         <div class="timeline-footer">
-                            Mai 2006
+                            2006
                         </div>
                     </div>
                 </li>

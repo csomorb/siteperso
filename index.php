@@ -41,6 +41,7 @@ $page = "pages/" . $params . ".php";
         <ul class="right hide-on-med-and-down">
             <li class="sliding-middle-out"><a href="/dev" <?php if ($folder == "dev") { echo "class='active'"; } ?>>Développement Web</a></li>
             <li class="sliding-middle-out"><a href="/parcours" <?php if ($folder == "parcours") { echo "class='active'"; } ?>>Parcours</a></li>
+            <li class="sliding-middle-out"><a href="/notes" <?php if ($folder == "notes") { echo "class='active'"; } ?>>Notes</a></li>
             <li class="sliding-middle-out"><a href="/hobbies" <?php if ($folder == "hobbies") { echo "class='active'"; } ?>>Centres d’intérêt</a></li>
             <li class="sliding-middle-out"><a href="./files/cv_Barnabas_Csomor.pdf" target="_blank">CV</a></li>
             <li class="sliding-middle-out"><a href="#contact">Contact</a></li>
