@@ -19,6 +19,14 @@
 <div class="section">
         <h2>Expériences dans le développement</h2>
         <p>
+            Développeur Full Stack à Alliance-réseaux<br/>
+
+
+
+            Front-end: Javascript, JQuery<br/>
+            Backend: .NET, XML, SQl Server, Entity Framework 
+        </p>
+        <p>
             Développeur JavaScript chez la société Objectif-PI, éditeur d'ERP Open Source peandant 1 an:<br/>
             Développement d’une appli mobile pour la gestion de production avec <a href="https://angular.io/" target="_blank">Angular</a> et <a href="https://ionicframework.com/" target="_blank">Ionic</a>. <br/>
             Amélioration et implantation de nouvelles fonctionnalités dans le framework web de l’ERP, un framework dérivé d'<a href="https://www.odoo.com/fr_FR/" target="_blank">Odoo</a>.<br/>
@@ -28,7 +36,7 @@
         <p> 
             Développement de sites web: <br/>
             Développement de sites web en colaboration avec des graphistes, création de templates et fonctionnalités Wordpress comme <a href="http://www.dev-et-sens.fr/" target="_blank">Dev & Sens</a>,
-            <a href="http://open-prod.com/" target="_blank">Open Prod</a> ...
+            <a href="https://gitarora.com/" target="_blank">gitarora.com</a>, <a href="http://open-prod.com/" target="_blank">Open Prod</a> ...
         </p>
         <p>
             En tant que stagiaire entre la licence et le master : <br/>

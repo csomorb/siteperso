@@ -143,7 +143,7 @@
         <p> 
             Développement de sites web: <br/>
             Développement de sites web en colaboration avec des graphistes, création de templates et fonctionnalités Wordpress comme <a href="http://www.dev-et-sens.fr/" target="_blank">Dev & Sens</a>,
-            <a href="http://open-prod.com/" target="_blank">Open Prod</a> ...
+            <a href="https://gitarora.com/" target="_blank">gitarora.com</a>, <a href="http://open-prod.com/" target="_blank">Open Prod</a> ...
         </p>
         <p>
             En tant que stagiaire entre la licence et le master : <br/>
