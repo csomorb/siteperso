@@ -20,9 +20,12 @@
         <h2>Expériences dans le développement</h2>
         <p>
             Développeur Full Stack à Alliance-réseaux<br/>
-
-
-
+            retranscrit l'API d'Addock en Angular dans le framework l'Open System d'AR.
+            Intégration et tests du sytème de payement <a href="https://stripe.com/fr">Stripe</a><br/>
+            Développement et intégration d'une paserelle austrian
+            Développement et intégration d'une passerelle avec l'Open System de la FFME 
+            Améliaritions de méthodes de payements trucs hostels...
+            Développement de nouvelles fonctionalités/correction de bugs dans le système de bietterie de l'Open System en back et en front
             Front-end: Javascript, JQuery<br/>
             Backend: .NET, XML, SQl Server, Entity Framework 
         </p>

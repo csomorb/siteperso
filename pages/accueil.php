@@ -17,7 +17,7 @@
         </div>
         <div class="col s12 l8">
         <h2 class="header">Who am I ?</h2>
-        <p class="grey-text text-darken-3 lighten-3">27 ans, développeur Web et JavaScript, de nationalité hongroise,
+        <p class="grey-text text-darken-3 lighten-3">29 ans, développeur Web et JavaScript, de nationalité hongroise,
             je suis passioné par les nouvelles technologies du web et le dévloppement mobile.</p>
         </div>
     </div>
@@ -26,7 +26,7 @@
             <div class="col s12 m4 l4 t1">
                <h3 class="center">Développement web</h3>
                 <p class="p-black">
-                    J'ai commencé à m'intéresser au développement web il y a 5 ans, depuis j'ai acquis des compétances dans différents domaines.
+                    J'ai commencé à m'intéresser au développement web il y a 9 ans, depuis j'ai acquis des compétances dans différents domaines.
                 </p>
             </div>
         </a>
