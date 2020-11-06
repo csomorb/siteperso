@@ -17,9 +17,15 @@
                             <img class="responsive-img" src="../img/lar.jpg" alt="Logo Alliance réseaux"/>
                         </div>
                         <div class="timeline-body">
-                            <p> Développeur chez Alliace réseaux
-                            <br/>
-                            Backend: .NET, XML, SQl Server
+                            <p> Développeur <span class="gp">Full Stack</span> à Alliance-réseaux<br/>
+                            Développement de passerelles de réservations en ligne pour <span class="gp">l’hotelerie</span> entre le système de réservation d'Alliance Réseaux,
+                             Skylodge et Xsalto  pour les réservations des refuges FFCAM.<br/> 
+                            Développement des widgets d'Addock (Angular) pour l'intégration à Alliance-Réseaux.<br/>  
+                            Intégration et <span class="gp">tests</span> du sytème de payement Stripe.<br/>  
+                            Mise en place d'un sytème de caches de disponibilités avec les paserelles Interhome et Novaresa.<br/>  
+                            Maintenance, et <span class="gp">optimisation</span> du framework utilisé par Alliance Réseaux.en front et back.<br/>  
+                            Frontend: Javascript, Angular<br/> 
+                            Backend: C#, .Net, XML, Microsoft SQL Server, Entity Framework
                             </p>
                         </div>
                         <div class="timeline-footer">
@@ -132,7 +138,26 @@
     </div>
     <div class="divider"></div>
     <div class="section">
-        <h2>Expériences dans le développement</h2>
+    <h2>Expériences dans le développement</h2>
+        <h3>Développeur Full Stack</h3>
+        <p>
+            Développeur Full Stack à <a href="https://www.alliance-reseaux.com/">Alliance-réseaux</a><br/>
+			Développement de passerelles de réservations en ligne pour l’hotelerie entre le système de réservation d'Alliance Réseaux (l’OpenSystem) 
+			et : <br/>
+			- <a href="https://www.xsalto.com/montagne-et-tourisme.html">Xsalto</a> pour les réservations des refuges FFCAM.<br/>
+			- <a href="https://www.skylodge.fr/">Skylodge</a>, une auberge de jeunesse, visible sur le site des <a href="https://www.n-py.com/fr">Nouvelles pyrinées</a>.<br/>
+			
+			Développement de nouvelles fonctionalités et optimisation du système de bietterie d'Alliance Réseaux (l'Open Billet) en back et en front.<br/>
+			Développement des widgets d'<a href="https://addock.co/logiciel-gestion-professionnels-loisirs/">Addock</a> (Angular)
+			pour l'intégration dans le système de réservation de billetrie d'Alliance-Réseaux, <a href="https://www.lac-annecy.com/images/pdf/Presentation_Lac-Annecy_Addock.pdf">explication</a>.<br/>
+			Intégration et tests du sytème de payement <a href="https://stripe.com/fr">Stripe</a><br/>
+			Mise en place d'un sytème de caches de disponibilités avec les paserelles <a href="https://www.interhome.fr/">Interhome</a> et <a href="https://www.novaresa.fr/">Novaresa</a> pour optimiser la vitesse de chargement.<br/>
+			Mise à jour du sytème de paiement pour la paserelle <a href="https://www.clevacances.com/fr/">CléVacance</a><br/>
+			Maintenance, correction de bugs et optimisation du framework utilisé par Alliance Réseaux.<br/>
+            Front-end: Javascript<br/>
+            Backend: .NET, XML, Microsoft SQl Server, Entity Framework <br/>
+        </p>
+        <h3>Développeur ERP</h3>
         <p>
             Développeur JavaScript chez la société Objectif-PI, éditeur d'ERP Open Source peandant 1 an:<br/>
             Développement d’une appli mobile pour la gestion de production avec <a href="https://angular.io/" target="_blank">Angular</a> et <a href="https://ionicframework.com/" target="_blank">Ionic</a>. <br/>
@@ -140,8 +165,12 @@
             Création et correction de modules existant de l'ERP en Python, XML et Javascript. <br/>
             J'ai aussi passé 3 mois sur la création de prototypes de tableaux de bords pour un module de Buissness Inteligence, plus d'infos dans mon <a href="../files/rapport.pdf" target="_blank">rapport de stage</a>.
         </p>
+        <h3>Développement web</h3>
+        <p>
+            Projet perso pour une appli photo avec Angular en front et <a href="https://nestjs.com/" target="_blank">NestJS</a> (framework nodeJS), <a href="https://typeorm.io/" target="_blank">TypeORM</a> et MySQL en back.<br/>
+            Repos github: <a href="https://github.com/csomorb/foto" target="_blank">front Angular</a> et <a href="https://github.com/csomorb/nestjs-foto" target="_blank">back NestJS</a>
+        </p>
         <p> 
-            Développement de sites web: <br/>
             Développement de sites web en colaboration avec des graphistes, création de templates et fonctionnalités Wordpress comme <a href="http://www.dev-et-sens.fr/" target="_blank">Dev & Sens</a>,
             <a href="https://gitarora.com/" target="_blank">gitarora.com</a>, <a href="http://open-prod.com/" target="_blank">Open Prod</a> ...
         </p>
@@ -150,12 +179,12 @@
             Participation à l'amélioration du site web de la <a href="https://www.chemin-neuf.fr/fr/">communauté du chemin-neuf</a>.<br/>
             Mise en place d'un wiki d'entreprise avec autentification LDAP et le CMS <a href="https://www.dokuwiki.org/fr:dokuwiki" target="_blank">dokuwiki</a> pour la communauté du chemin-neuf.
         </p>
+        <h3> Projets universitaires</h3>
         <p>
-            Projets scolaires: <br/>
+            Une démo d'algorithme de <a href="/fourmi">swarminteligence</a> appliqué au <a href="/tsp">problème du voyageur de commerce</a>.<br/>
+            Des <a href="https://github.com/pgns/m1m-clients">projets</a> avec angularJS et angular 2.<br/>    
             Conception d’une application web pour le laboratoire des sciences de l’éducation de l’université de Grenoble pour le projet de master 1 avec le framework <a href="https://cakephp.org/">CakePHP</a>.<br/>
             Pour le cours d'IHM création d'un <a href="https://github.com/csomorb/projetIHM" target="_blank">protype de réseau social</a> utilisation de materialize et découverte rapide de Symfony.<br/>
-            Des <a href="https://github.com/pgns/m1m-clients">projets</a> avec angularJS et angular 2.<br/>
-            Une démo d'algorithme de <a href="/fourmi">swarminteligence</a> appliqué au <a href="/tsp">problème du voyageur de commerce</a>.
         </p>
     </div>
     <div class="divider"></div>

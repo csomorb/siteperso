@@ -17,7 +17,7 @@
         </div>
         <div class="col s12 l8">
         <h2 class="header">Who am I ?</h2>
-        <p class="grey-text text-darken-3 lighten-3">29 ans, développeur Web et JavaScript, de nationalité hongroise,
+        <p class="grey-text text-darken-3 lighten-3">29 ans, développeur Web et JavaScript, d'hongroise,
             je suis passioné par les nouvelles technologies du web et le dévloppement mobile.</p>
         </div>
     </div>
@@ -26,7 +26,7 @@
             <div class="col s12 m4 l4 t1">
                <h3 class="center">Développement web</h3>
                 <p class="p-black">
-                    J'ai commencé à m'intéresser au développement web il y a 9 ans, depuis j'ai acquis des compétances dans différents domaines.
+                    J'ai commencé à m'intéresser au développement web il y a 10 ans, depuis j'ai acquis des compétances dans différents domaines. Vous pouvez lire ici mes compétences.
                 </p>
             </div>
         </a>
@@ -34,7 +34,7 @@
             <div class="col s12 m4 l4 t2">
                 <h3 class="center">Mon parcours</h3>
                 <p class="p-black">
-                    Après un master informatique spécialisé dans le web, j'ai continué en tant que développeur JavaScript pour un ERP durant 1 an, vous pouvez lire ici mon parcours universitaire et mes expériences professionnelles.
+                    Après un master informatique spécialisé dans le web, j'ai continué en tant que développeur JavaScript pour un ERP durant 1 an, puis en tant que dev Full Stack, vous pouvez lire ici mon parcours universitaire et mes expériences professionnelles.
                 </p>
             </div>
         </a>
@@ -42,7 +42,7 @@
             <div class="col s12 m4 l4 t3">
                 <h3 class="center">Mes autres centres d'intérêt</h3>
                 <p class="p-black">
-                    Fiancé depuis peu, je pratique plusieurs sports de montagne, dont l'alpinisme, le ski de rando et l'escalade. Je m'étais engagé dans le scoutisme durant plusieurs années. J'ai voyagé dans d'autres pays, continent.
+                    Marié depuis peu, je pratique plusieurs sports de montagne, dont l'alpinisme, le ski de rando et l'escalade. Je m'étais engagé dans le scoutisme durant plusieurs années. J'ai passé 5 mois en Asie, 3 mois en écosse et voyagé dans d'autres pays d'europe.
                 </p>
             </div>
         </a>
