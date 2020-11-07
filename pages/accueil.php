@@ -12,12 +12,12 @@
 </div>
 <div class="section white">
     <div class="row container">
-        <div class="col s12 l4">
-            <img src="../img/a3.jpg" class="responsive-img" alt="Csomor Barnabas">
+        <div class="col s12 m6 l3">
+            <img src="../img/a3.JPG" class="responsive-img" alt="Csomor Barnabas">
         </div>
-        <div class="col s12 l8">
+        <div class="col s12 m6 l9">
         <h2 class="header">Who am I ?</h2>
-        <p class="grey-text text-darken-3 lighten-3">29 ans, développeur Web et JavaScript, d'hongroise,
+        <p class="grey-text text-darken-3 lighten-3">29 ans, développeur Full Stack, d'origine hongroise,
             je suis passioné par les nouvelles technologies du web et le dévloppement mobile.</p>
         </div>
     </div>

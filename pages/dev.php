@@ -8,8 +8,8 @@
 <div class="container">
     <h1 class="center">Développement Web</h1>
     <div class="row anim">
-        <h2>Mes compétences</h2>
-        <div class="col m2">
+      <h2>Mes compétences</h2>
+        <div class="col s12 m12 l2">
             <ul>
                 <li>Angular</li>
                 <li>Vue.JS</li>
@@ -33,7 +33,7 @@
                 <li>Wordpress</li>
             </ul>
         </div>
-        <div class="col m10">   
+        <div class="col s12 m10 l10 anim-comp">   
             <div id="all">
                 <div class="java">Load</div>
                 <div class="script">Compétences</div>
@@ -327,7 +327,7 @@ function doPosition() {
     aA[i].style.left = mcList[i].cx + l - mcList[i].offsetWidth / 2 + 'px';
     aA[i].style.top = mcList[i].cy + t - mcList[i].offsetHeight / 2 + 'px';
 
-    aA[i].style.fontSize = Math.ceil(12 * mcList[i].scale / 2) + 12 + 'px';
+    aA[i].style.fontSize = Math.ceil(12 * mcList[i].scale / 2) + 14 + 'px';
 
     aA[i].style.filter = "alpha(opacity=" + 100 * mcList[i].alpha + ")";
     aA[i].style.opacity = mcList[i].alpha;
